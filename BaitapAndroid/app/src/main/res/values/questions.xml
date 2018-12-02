@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="q_0">Ha noi la thu do Viet Nam</string>
+    <bool name="a_0">true</bool>
+
+    <string name="q_1">Ho Chi Minh la thu do Viet Nam</string>
+    <bool name="a_1">false</bool>
+
+    <string name="q_2">Da Nang la thu do Viet Nam</string>
+    <bool name="a_2">false</bool>
+
+    <string name="q_3">Phu Yen la thu do Viet Nam</string>
+    <bool name="a_3">false</bool>
+
+
+
+</resources>
